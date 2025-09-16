@@ -1,0 +1,53 @@
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{"level":"warn","message":"User already exists with email: ","service":"acquisitions-api"}
+{"error":{},"level":"error","message":"Error creating user","service":"acquisitions-api"}
+{"error":{},"level":"error","message":"Error during sign-up","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [16/Sep/2025:09:46:11 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 465 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
